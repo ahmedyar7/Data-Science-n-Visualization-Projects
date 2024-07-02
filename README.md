@@ -41,6 +41,9 @@ Here are some of the key projects included in this repository:
 6. **Nobel Laurates Analysis** 🏅
    - Analyze different noble laurates on different parameter
    - **Tools:** _Pandas_, _Plotly_, _Seaborn_, _Numpy_, _Plotly_.
+7. **Hand Washing Effects** 🧼
+   - Analyze the effect of hand washing on child bearning women mortality rate
+   - **Tools:** _Pandas_, _Plotly_, _Seaborn_, _Numpy_, _Plotly_.
 
 ## Installation
 
@@ -75,7 +78,7 @@ To run these projects locally, follow these steps:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo" style="margin: 0 6px;" />
   <img src="img/1200px-Matplotlib_icon.svg.png" height="50" style="margin: 0 6px;" />
   <img src="img/apps.36868.bfb0e2ee-be9e-4c73-807f-e0a7b805b1be.712aff5d-5800-47e0-97be-58d17ada3fb8.png" height="69" style="margin: 0 6px;" />
-  <img src="img/seaborn-logo-244EB2DEC5-seeklogo.com.png" height="69" style="margin: 0 6px;" />
+  <img src="img/seaborn-logo-244EB2DEC5-seeklogo.com.png" height="60" style="margin: 0 6px;" />
 </span>
 
 </div>
