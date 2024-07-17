@@ -44,7 +44,7 @@ Here are some of the key projects included in this repository:
 7. **Hand Washing Effects** 🧼
    - Analyze the effect of hand washing on child bearning women mortality rate
    - **Tools:** _Pandas_, _Plotly_, _Seaborn_, _Numpy_, _Plotly_.
-8. **911 Emergergency Call Analysis** 🧼
+8. **911 Emergergency Call Analysis** 📞
    - Analyze the Reasons and effect of 911 Calls
    - **Tools:** _Pandas_, _Plotly_, _Seaborn_, _Plotly_.
 
