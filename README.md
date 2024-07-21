@@ -86,23 +86,6 @@ To run these projects locally, follow these steps:
 
 </div>
 
-## Usage
-
-Each project is contained within its own directory and includes a Jupyter notebook (`.ipynb`) To explore a project, navigate to its directory and open the corresponding notebook .
-
-For example, to explore the LEGO Sets Analysis project:
-
-1. Navigate to the project directory:
-
-   ```bash
-   cd lEGO Data seet
-   ```
-
-2. Start the Jupyter notebook:
-
-   ```bash
-   jupyter notebook
-   ```
 
 ## Contributing
 
