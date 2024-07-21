@@ -44,7 +44,7 @@ Here are some of the key projects included in this repository:
 7. **Hand Washing Effects** 🧼
    - Analyze the effect of hand washing on child bearning women mortality rate
    - **Tools:** _Pandas_, _Plotly_, _Seaborn_, _Numpy_, _Plotly_.
-8. **911 Emergergency Call Analysis** 📲
+8. **911 Emergergency Call Analysis** 📞
    - Analyze the Reasons and effect of 911 Calls
    - **Tools:** _Pandas_, _Plotly_, _Seaborn_, _Plotly_.
 
@@ -85,24 +85,6 @@ To run these projects locally, follow these steps:
 </span>
 
 </div>
-
-## Usage
-
-Each project is contained within its own directory and includes a Jupyter notebook (`.ipynb`) To explore a project, navigate to its directory and open the corresponding notebook .
-
-For example, to explore the LEGO Sets Analysis project:
-
-1. Navigate to the project directory:
-
-   ```bash
-   cd lEGO Data seet
-   ```
-
-2. Start the Jupyter notebook:
-
-   ```bash
-   jupyter notebook
-   ```
 
 ## Contributing
 
